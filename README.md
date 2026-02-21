@@ -1,2 +1,2 @@
-# Federated-Leering-ML
+# Federated-Learing-ML
 
